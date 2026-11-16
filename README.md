@@ -8,7 +8,7 @@ Background in economics. Currently working at the intersection of  **Finance, En
 * ⚡: Previously **Risk & Pricing Analyst @ EDF Power Solutions Brazil** for over 2 years: market risk, PPA pricing, credit analysis and data automation for a renewable & LNG portfolio
 
 * 🧠: Interested in using Econometrics, Data Science and Quantitative Models to obtain insights and drive knowledge, informed decisions and innovation.
-  * high density of work on panel data (longitudinal structures: FE, RE, DiD and later related developments);
+  * main line of work is on panel data (longitudinal structures: FE, RE, DiD and later related developments);
   * interested in synthetic controls;
   * work on optimisation modelling
   * high density of work on financial engineering, market modelling and stochastic risk modelling
